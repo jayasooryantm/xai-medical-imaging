@@ -45,4 +45,6 @@ Testing With retrained Resnet50 aquired:
 - Recall: 0.9795
 - F1 Score: 0.8702
 
+--- Training loss and acc image ---
+
 > It is evident that sampler was influencing the accuracy of the model. without the sampler train accuracy is 95% and test accuracy is almost 82% which is a great leap from 31% accuracy. now model is performing better. let's make it even better

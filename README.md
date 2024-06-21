@@ -45,6 +45,8 @@ Testing With retrained Resnet50 aquired:
 - Recall: 0.9795
 - F1 Score: 0.8702
 
---- Training loss and acc image ---
+<img src="Assets/XAIM-16 Training Accuracy.png" width="500px" height="300px"/>
+<img src="Assets/XAIM-16 Training Epoch Loss.png" width="500px" height="300px"/>
+
 
 > It is evident that sampler was influencing the accuracy of the model. without the sampler train accuracy is 95% and test accuracy is almost 82% which is a great leap from 31% accuracy. now model is performing better. let's make it even better
